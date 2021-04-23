@@ -1,0 +1,11 @@
+public class task6
+{
+public static void main(String[]args)
+{
+  int[]a={4,2,6,2,4}
+  if(a[0]==a[4] && a[1]==a[3])
+  {
+  System.out.println("it is a palindrome");
+  }
+}
+}
